@@ -1,0 +1,6 @@
+{
+  "name": "RepairReach Pro",
+  "description": "Cohesive modern mobile workflow app for field service technicians featuring morning overview, job lifecycle execution, service scheduling, time management, and profile capacity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

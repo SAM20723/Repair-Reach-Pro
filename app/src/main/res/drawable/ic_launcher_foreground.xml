@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.95"
+        android:scaleY="0.95"
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Circular Brand Container Glow -->
+        <path
+            android:pathData="M54,24 C37.43,24 24,37.43 24,54 C24,70.57 37.43,84 54,84 C70.57,84 84,70.57 84,54 C84,37.43 70.57,24 54,24 Z"
+            android:fillColor="#151E3A8A" />
+            
+        <!-- Hexagonal / Shield Base -->
+        <path
+            android:pathData="M54,26 L76,38 L76,64 L54,78 L32,64 L32,38 Z"
+            android:fillColor="#0D9488" />
+        <path
+            android:pathData="M54,29 L73,40 L73,62 L54,74 L35,62 L35,40 Z"
+            android:fillColor="#0F172A" />
+
+        <!-- Bold Diagonal Wrench & Tech Reach Signal -->
+        <!-- Wrench Head and Handle -->
+        <path
+            android:pathData="M65.2,37.8 C64.1,36.7 62.6,36.2 61.1,36.5 C59.2,36.9 57.6,38.1 56.8,39.8 L44.2,52.4 C43.2,51.8 41.9,51.6 40.6,52.1 C38.6,52.9 37.3,54.9 37.3,57.1 C37.3,58.3 37.7,59.4 38.5,60.2 L47.8,69.5 C48.6,70.3 49.7,70.7 50.9,70.7 C53.1,70.7 55.1,69.4 55.9,67.4 C56.4,66.1 56.2,64.8 55.6,63.8 L68.2,51.2 C69.9,50.4 71.1,48.8 71.5,46.9 C71.8,45.4 71.3,43.9 70.2,42.8 L66.8,46.2 L61.8,41.2 L65.2,37.8 Z"
+            android:fillColor="#F8FAFC" />
+
+        <!-- High-visibility Accent Dot and Reach Rings -->
+        <path
+            android:pathData="M63,33 C67,35 71,39 73,43"
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M67,29 C73,32 78,38 80,44"
+            android:strokeColor="#2DD4BF"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round" />
+
+        <!-- Inner Sparkle / Ready Indicator -->
+        <path
+            android:pathData="M44,61 L46,65 L50,67 L46,69 L44,73 L42,69 L38,67 L42,65 Z"
+            android:fillColor="#38BDF8" />
+    </group>
+</vector>
